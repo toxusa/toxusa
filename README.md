@@ -33,4 +33,5 @@ Here are some ideas to get you started:
 
 | Название проекта | Навыки и инструменты |  Задачи проекта | Ссылка |
 | --- | --- | --- | --- |
-| YaP_Project_01_DA | Jupyter Notebook, python, pandas | Анализ использования сервиса Яндекс.Музыка в Москве и Санкт-Петербурге | https://github.com/toxusa/YaP_Project_01_DA.git | 
+| YaP_Project_02_DA *Анализ надежности заемщиков* | Jupyter, python, pandas, seaborn, matplotlib, numpy | На основании статистики о плетежеспособности клиентов определить, влияет ли семейное положение и количество детей клиента на факт погашения кредита в срок | https://github.com/toxusa/YaP_Project_02_DA |
+| YaP_Project_01_DA *Анализ использования сервиса Яндекс.Музыка* | Jupyter Notebook, python, pandas | Найти различия при использовании сервиса Яндекс.Музыка в Москве и Санкт-Петербурге по дням недели и жанрам | https://github.com/toxusa/YaP_Project_01_DA | 
