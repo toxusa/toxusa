@@ -33,3 +33,4 @@ Here are some ideas to get you started:
 
 | Название проекта | Навыки и инструменты |  Задачи проекта | Ссылка |
 | --- | --- | --- | --- |
+| YaP_Project_01_DA | Jupyter Notebook, python, pandas | Анализ использования сервиса Яндекс.Музыка в Москве и Санкт-Петербурге | https://github.com/toxusa/YaP_Project_01_DA.git | 
