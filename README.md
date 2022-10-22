@@ -33,6 +33,7 @@ Here are some ideas to get you started:
 
 | Название проекта | Навыки и инструменты |  Задачи проекта | Ссылка |
 | --- | --- | --- | --- |
+| YaP_Project_04_DA *Определение перспективного тарифа для телеком-компании* | Jupyter, python, seaborn, scipy, plotly | Анализ тарифов на выборке клиентов - 500 пользователей «Мегалайна». Анализ поведения клиентов и выводы — какой тариф лучше. | https://github.com/toxusa/YaP_Project_04_DA |
 | YaP_Project_03_DA *Исследование объявлений о продаже квартир* | Jupyter, python, pandas, seaborn, matplotlib, numpy, datetime | Анализ рыночной стоимости недвижимости на основании данных Яндекс Недвижимости за период с 2015 по середину 2019 года | https://github.com/toxusa/YaP_Project_03_DA |
 | YaP_Project_02_DA *Анализ надежности заемщиков* | Jupyter, python, pandas, seaborn, matplotlib, numpy | На основании статистики о плетежеспособности клиентов определить, влияет ли семейное положение и количество детей клиента на факт погашения кредита в срок | https://github.com/toxusa/YaP_Project_02_DA |
 | YaP_Project_01_DA *Анализ использования сервиса Яндекс.Музыка* | Jupyter Notebook, python, pandas | Найти различия при использовании сервиса Яндекс.Музыка в Москве и Санкт-Петербурге по дням недели и жанрам | https://github.com/toxusa/YaP_Project_01_DA | 
