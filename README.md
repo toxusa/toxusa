@@ -33,6 +33,7 @@ Here are some ideas to get you started:
 
 | Название проекта | Навыки и инструменты |  Задачи проекта | Ссылка |
 | --- | --- | --- | --- |
+| YaP_Project_10_DA<br> *Анализ мобильного приложения по продаже продуктов питания* | Jupyter, python, scipy, math, A/A, A/B, AA/B-тесты, воронка событий | Анализ поведения пользователей мобильного приложения. Изучение воронки продаж, результатов A/A/B-эксперимента | https://github.com/toxusa/YaP_Project_10_DA |
 | YaP_Project_09_DA<br> *Анализ рынка заведений общественного питания Москвы* | Jupyter, python, regular extentions, site-parsing, BeautifulSoup, requests | Анализ рынка общепита Москвы по типам объектов, по сетевым/не сетевым, по посадочным местам, по улицам и районам города. Рекомендации по наиболее перспективным заведениям для открытия | https://github.com/toxusa/YaP_Project_09_DA |
 | YaP_Project_08_DA<br> *Принятие решений в бизнесе на основе данных* | Jupyter, python, scipy, ICE, RICE, A/B-test | Приоретизация гипотез и анализ A/B-теста, анализ увеличения выручки |  https://github.com/toxusa/YaP_Project_08_DA |
 | YaP_Project_07_DA<br> *Маркетинговый анализ работы приложения Procrastinate Pro+* | Jupyter, python, LTV, ROI, CAC, Retention Rate, CR | Исследовательский анлиз данных пользователей приложения, маркетинг, оценка окупаемости рекламы, анализ причин неокупаемости | https://github.com/toxusa/YaP_Project_07_DA |
