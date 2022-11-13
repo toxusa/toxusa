@@ -19,9 +19,10 @@ Here are some ideas to get you started:
 #### Я работаю с высоконагруженными системами и базами данных. Анализ данных является частью моей работы, сейчас я делаю это на хорошем уровне и мне нравится.
 #### Интересуюсь направленими: инжениринг данных, облачные сервисы, DA/DS.
 
-:heavy_check_mark: Мои сертификаты:
-https://disk.yandex.ru/i/NOl14twkcOITFA
-https://disk.yandex.ru/d/2AVfqyR1h03vZA
+:heavy_check_mark: Мои сертификаты: <br>
+- Аналитик данных Яндекс.Практикум (Data Analitic on Yandex.Practicum):
+  - RU: https://disk.yandex.ru/i/NOl14twkcOITFA
+  - EN: https://disk.yandex.ru/d/2AVfqyR1h03vZA
 
 Как со мной связаться: 
 
