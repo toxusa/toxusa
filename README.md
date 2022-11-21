@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 Как со мной связаться: 
 
-<!--:phone: +7 -->
+:phone: +7-961-668-14-70
 
 :black_nib: toxusa@yandex.ru
 
