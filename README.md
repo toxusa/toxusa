@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 Содержание моего репозитория:
 
 | Название проекта | Навыки и инструменты |  Задачи проекта |
-| --- | --- | --- | --- |
+| --- | --- | --- |
 | [YaP_Project_Final_3_DA](https://github.com/toxusa/YaP_Project_Final_3_DA)<br> *Анализ базы данных клиг с помощью SQL-запросов* | Jupyter, SQL, python, sqlalchemy | Анализ информации о книгах, издательствах, авторах, а также пользовательские обзоры книг. Эти данные помогут сформулировать ценностное предложение для нового продукта |
 | [YaP_Project_Final_2_DA](https://github.com/toxusa/YaP_Project_Final_2_DA)<br> *Оценка результатов A/B-тестов для выявления изменений, связанных с внедрением улучшенной рекомендательной системы* | Jupyter, python, scipy, statsmodels, urllib.parse, statsmodels.stats.api | Анализ результатов A/B-теста и оценка платежной воронки после внедрения улучшенной рекомендательной системы интернет-магазина |
 | [YaP_Project_Final_1_DA](https://github.com/toxusa/YaP_Project_Final_1_DA)<br> *Сегментация клиентов банка по потреблению* | Jupyter, python, scipy, statsmodels.stats.proportion, proportions_ztest | Сегментация клиентов банка и проверка гипотез о различии отделельных показателей (дохода, гендеру, балансу) для определения возможных причин оттока и путей решения |
