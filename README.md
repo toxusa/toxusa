@@ -21,7 +21,9 @@ Here are some ideas to get you started:
 #### My areas of interest include DevOps engineering, data engineering, cloud services, and DA/DS (Data Analysis/Data Science).
 #### In my free time I do pet projects and read technical articles.
 
-### DevOps Skills Section
+---
+
+### :infinity: DevOps Skills Section
 #### I specialize in DevOps practices, focusing on automation, scalability, and reliability. My expertise includes:
 - **Cloud & Infrastructure**: Yandex Cloud, Kubernetes, Docker, Terraform, CI/CD pipelines (GitLab, Jenkins, Gitea).
 - **Monitoring & Logging**: Prometheus, Grafana, ELK Stack.
@@ -29,13 +31,17 @@ Here are some ideas to get you started:
 - **Scripting & Automation**: Python, Bash, Ansible playbooks, Helm, ArgoCD.
 - **High Availability & Load Handling**: Designing fault-tolerant architectures for high-traffic systems.
 
-:heavy_check_mark: Мои сертификаты: <br>
+---
+
+### :heavy_check_mark: Мои сертификаты (My certificates): <br>
 - DevOps engineering:
   - EN: https://disk.yandex.ru/i/Q1818gK5pjMwlA
   - RU: https://disk.yandex.ru/i/VI9hYzvLOsb8rQ
 - Аналитик данных Яндекс.Практикум (Data Analitic on Yandex.Practicum):
   - RU: https://disk.yandex.ru/i/NOl14twkcOITFA
   - EN: https://disk.yandex.ru/d/2AVfqyR1h03vZA
+
+---
 
 ### Как со мной связаться (How to reach me): 
 
