@@ -1,4 +1,5 @@
 ### Привет! 👋
+### Hello!
 
 <!--
 **toxusa/toxusa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,23 +16,83 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Меня зовут Антон.
-#### Я работаю с высоконагруженными системами и базами данных. Анализ данных является частью моей работы, сейчас я делаю это на хорошем уровне и мне нравится.
-#### Интересуюсь направлениями: инжениринг данных, облачные сервисы, DA/DS.
+### My name is Anton.
+#### I work with high-load systems and databases. Data analysis is a key part of my work — I currently perform it at a high level and enjoy it.
+#### My areas of interest include DevOps engineering, data engineering, cloud services, and DA/DS (Data Analysis/Data Science).
+#### In my free time I do pet projects and read technical articles.
+
+### DevOps Skills Section
+#### I specialize in DevOps practices, focusing on automation, scalability, and reliability. My expertise includes:
+- **Cloud & Infrastructure**: Yandex Cloud, Kubernetes, Docker, Terraform, CI/CD pipelines (GitLab, Jenkins, Gitea).
+- **Monitoring & Logging**: Prometheus, Grafana, ELK Stack.
+- **Databases & Performance**: PostgreSQL, MySQL, MSSQL, MongoDB, query optimization.
+- **Scripting & Automation**: Python, Bash, Ansible playbooks, Helm, ArgoCD.
+- **High Availability & Load Handling**: Designing fault-tolerant architectures for high-traffic systems.
 
 :heavy_check_mark: Мои сертификаты: <br>
+- DevOps engineering:
+  - EN: https://disk.yandex.ru/i/Q1818gK5pjMwlA
+  - RU: https://disk.yandex.ru/i/VI9hYzvLOsb8rQ
 - Аналитик данных Яндекс.Практикум (Data Analitic on Yandex.Practicum):
   - RU: https://disk.yandex.ru/i/NOl14twkcOITFA
   - EN: https://disk.yandex.ru/d/2AVfqyR1h03vZA
 
-Как со мной связаться: 
+### Как со мной связаться (How to reach me): 
 
 :black_nib: toxusa@yandex.ru
+:black_nib: tox.usa@gmail.com
+
+### :calling: Connect with me: 
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/toxusa) 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3B6zuQ2itKSIq3yLkOnO2lYw%3D%3D)
+[![HabrCareer Badge](https://img.shields.io/badge/-HabrCareer-blue?style=flat&logo=Habr&logoColor=white)](https://career.habr.com/toxusa)
+
+---
+
+### :hammer_and_wrench: Languages and Tools :
+
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/ansible/ansible-original.svg" title="Ansible" alt="Ansible" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/argocd/argocd-original.svg" title="ArgoCD" alt="ArgoCD" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/centos/centos-original.svg" title="CentOS" alt="CentOS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/debian/debian-original.svg" title="Debian" alt="Debian" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/elasticsearch/elasticsearch-original.svg" title="ELK" alt="ELK" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg" title="GitLab" alt="GitLab" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/grafana/grafana-original.svg" title="Grafana" alt="Grafana" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/helm/helm-original.svg" title="Helm" alt="Helm" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" title="Jenkins" alt="Jenkins" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" title="Jupiter" alt="Jupiter" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-original.svg" title="K8S" alt="K8S" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" title="NGINX" alt="NGINX" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/neovim/neovim-original.svg" title="Nvim" alt="Nvim" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/openstack/openstack-original.svg" title="OpenStack" alt="OpenStack" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/podman/podman-original.svg" title="Podman" alt="Podman" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/prometheus/prometheus-original.svg" title="Prometheus" alt="Prometheus" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/pytest/pytest-original.svg" title="Pytest" alt="Pytest" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/redhat/redhat-original.svg" title="RedHat" alt="RedHat" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/sonarqube/sonarqube-original.svg" title="SonarQube" alt="SonarQube" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/terraform/terraform-original.svg" title="Terraform" alt="Terraform" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" title="Ubuntu" alt="Ubuntu" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vagrant/vagrant-original.svg" title="Vagrant" alt="Vagrant" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vault/vault-original.svg" title="Vault" alt="Vault" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg" title="Vim" alt="Vim" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="Vscode" alt="Vscode" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/yaml/yaml-original.svg" title="Yaml" alt="Yaml" width="40" height="40"/>&nbsp;
+</div>
 
 Содержание моего репозитория:
 
 | Название проекта | Навыки и инструменты |  Задачи проекта |
 | --- | --- | --- |
+| Интернет-магазин сосисок и сарделек (Snag & sausage store) | CI/CD, java, docker, vault, SonarQube, bash | [Snag and Sausage store](https://github.com/toxusa/snag-store)<br> *Build, test, release and deploy project in CI/CD pipeline* |
+| Инфраструктурный репозиторий для snag-store (Snag & sausage store infrastructure) | terraform, ansible, k8s, helm, prometheus, grafana, argocd | [Infrastucture for Snag and Sausage store](https://github.com/toxusa/snag-store-infrastucture)<br> *Multi-Cloud Deployment Automation with Terraform, Ansible, Helm, and Monitoring* |
+| Интернет-магазин пельменей (dumpling (momo) store) | CI/CD, java, docker, vault, SonarQube, bash | [Dumpling (Momo) store](https://github.com/toxusa/dumplings-store)<br> *The repository contains code that can be used to deploy a dumpling store project to your Yandex Cloud* |
 | [OpenSearch_Logstash_Filebeat_test](https://github.com/toxusa/OpenSearch_Logstash_Filebeat_test)<br> *Deployement OpenSearch with a stack with Logstash and Filebeat (also realized option without Filebeat - the file is processed directly) and Dashboard creating* | Docker, Docker-compose, OpenSearch, ECS, Logstash, Filebeat, OpenSearch Dashboards | Deploy two stacks: "file" to Logstash to OpenSearch; "file" to Filebeat to Logstash to OpenSearch. Finally creating a dashboard on sample nginx access log sample data |
 | [YaP_Project_Final_3_DA](https://github.com/toxusa/YaP_Project_Final_3_DA)<br> *Анализ базы данных клиг с помощью SQL-запросов* | Jupyter, SQL, python, sqlalchemy | Анализ информации о книгах, издательствах, авторах, а также пользовательские обзоры книг. Эти данные помогут сформулировать ценностное предложение для нового продукта |
 | [YaP_Project_Final_2_DA](https://github.com/toxusa/YaP_Project_Final_2_DA)<br> *Оценка результатов A/B-тестов для выявления изменений, связанных с внедрением улучшенной рекомендательной системы* | Jupyter, python, scipy, statsmodels, urllib.parse, statsmodels.stats.api | Анализ результатов A/B-теста и оценка платежной воронки после внедрения улучшенной рекомендательной системы интернет-магазина |
